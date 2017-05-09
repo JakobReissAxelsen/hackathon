@@ -29,7 +29,7 @@ private:
     Ui::MainWindow *ui;
 
 
-
+    long count;
     long number;
 };
 
