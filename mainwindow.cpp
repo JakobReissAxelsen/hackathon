@@ -15,6 +15,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->count->setText("");
     count = 0;
     number = -1;
+
 }
 
 MainWindow::~MainWindow()
